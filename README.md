@@ -1,3 +1,3 @@
 # interviewquiz
-## FizzBuzz
-## Countdown
+### FizzBuzz
+### Countdown
