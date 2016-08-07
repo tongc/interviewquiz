@@ -4,3 +4,4 @@
 ### Find duplicated values in a list of numbers. e.g. 112233 -> 123
 ### Reverse a sentence. e.g sentence a reverse
 ### Calculate Fibonacci numbers 
+### Check if a number is prime
